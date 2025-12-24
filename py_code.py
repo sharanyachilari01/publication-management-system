@@ -10,7 +10,7 @@ API_KEY = " "  # Replace with your API key
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "MySql@123",
+    "password": "password",
     "database": "FacultyPublicationDB"
 }
 
